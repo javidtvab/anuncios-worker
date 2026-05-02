@@ -1,0 +1,14 @@
+{
+  "name": "anuncios-worker-final",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.3",
+    "playwright": "^1.43.0",
+    "axios": "^1.6.8"
+  }
+}
